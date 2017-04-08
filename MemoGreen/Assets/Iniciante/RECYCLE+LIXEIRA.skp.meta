@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: e74f2756542f82d4dab3a136da76be32
+timeCreated: 1458754220
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000270000002800000029000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9056623f5af547401852bd3cc1efee0e
+  longitude: -47.917
+  latitude: -15.783
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.96000004, y: 0.45788246, z: -1.4686502}
+      lookAt: {x: 0.96000004, y: 0.45788246, z: 0.21}
+      up: {x: 0, y: 1, z: 0}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 1
+    100002: Group 10
+    100004: Group 12
+    100006: Group 13
+    100008: Group 14
+    100010: Group 16
+    100012: Group 18
+    100014: Group 2
+    100016: Group 22
+    100018: Group 23
+    100020: Group 24
+    100022: Group 26
+    100024: Group 3
+    100026: Group 30
+    100028: Group 32
+    100030: Group 33
+    100032: Group 35
+    100034: Group 36
+    100036: Group 38
+    100038: Group 4
+    100040: Group 6
+    100042: Group 8
+    100044: METAL
+    100046: PAPEL
+    100048: "PL\xC1STICO"
+    100050: //RootNode
+    400000: Group 1
+    400002: Group 10
+    400004: Group 12
+    400006: Group 13
+    400008: Group 14
+    400010: Group 16
+    400012: Group 18
+    400014: Group 2
+    400016: Group 22
+    400018: Group 23
+    400020: Group 24
+    400022: Group 26
+    400024: Group 3
+    400026: Group 30
+    400028: Group 32
+    400030: Group 33
+    400032: Group 35
+    400034: Group 36
+    400036: Group 38
+    400038: Group 4
+    400040: Group 6
+    400042: Group 8
+    400044: METAL
+    400046: PAPEL
+    400048: "PL\xC1STICO"
+    400050: //RootNode
+    2300000: Group 10
+    2300002: Group 14
+    2300004: Group 16
+    2300006: Group 18
+    2300008: Group 24
+    2300010: Group 26
+    2300012: Group 30
+    2300014: Group 33
+    2300016: Group 36
+    2300018: Group 38
+    2300020: Group 4
+    2300022: Group 6
+    2300024: Group 8
+    2300026: METAL
+    2300028: PAPEL
+    2300030: "PL\xC1STICO"
+    3300000: Group 10
+    3300002: Group 14
+    3300004: Group 16
+    3300006: Group 18
+    3300008: Group 24
+    3300010: Group 26
+    3300012: Group 30
+    3300014: Group 33
+    3300016: Group 36
+    3300018: Group 38
+    3300020: Group 4
+    3300022: Group 6
+    3300024: Group 8
+    3300026: METAL
+    3300028: PAPEL
+    3300030: "PL\xC1STICO"
+    4300000: Mesh Group 4
+    4300002: Mesh Group 6
+    4300004: Mesh Group 8
+    4300006: Mesh Group 10
+    4300008: Mesh Group 14
+    4300010: Mesh METAL
+    4300012: Mesh Group 24
+    4300014: "Mesh PL\xC1STICO"
+    4300016: Mesh Group 36
+    4300018: Mesh PAPEL
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
